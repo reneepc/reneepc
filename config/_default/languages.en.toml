@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Renê Cardozo"
+# logo = "img/logo.jpg"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Renê Cardozo"
+  image = "img/author.jpg"
+  headline = "Software Engineer - DDD"
+  bio = "Software Engineer @ Opus Software"
+  links = [
+     { github = "https://github.com/reneepc" },
+     { linkedin = "https://linkedin.com/in/reneepc" },
+     #{ instagram = "https://instagram.com/rene_epc" },
+   ]

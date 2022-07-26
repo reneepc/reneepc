@@ -1,0 +1,4 @@
+theme = 'congo'
+baseURL = 'localhost'
+languageCode = 'en'
+disqusShortname = 'reneepc'
