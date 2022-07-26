@@ -1,0 +1,3 @@
+all:
+	hugo --gc --minify -b "https://linux.ime.usp.br/~reneepc"
+	scp -rp public/* reneepc@linux.ime.usp.br:www/
