@@ -1,4 +1,4 @@
 theme = 'congo'
-baseURL = 'localhost'
+baseURL = ''
 languageCode = 'en'
 disqusShortname = 'reneepc'
