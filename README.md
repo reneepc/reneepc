@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align="right" src="./gopher-strong.png" alt="Gopher drawing strong abs in its belly" width="420"/>
 
-<!--
-**reneepc/reneepc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🤗 Hello! I'm Renê Cardozo</h1>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1500&pause=100&color=93D9FF&background=FF000000&center=true&vCenter=true&multiline=true&random=false&width=435&height=80&lines=Backend+Development;Software+Architecture;Go" alt="Backend Development, Software Architecture and Go" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">
+
+💼 Senior Software Engineer [@smarters](https://smarte.rs) 
+
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,python,docker,aws,postgres,dynamodb,redis,mongodb,kafka&perline=5" />
+  </a>
+</p>
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reneepc/)
+[![Gmail Badge](https://img.shields.io/badge/rene.epcrdz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rene.epcrdz@gmail.com)
+
+</div>
