@@ -7,7 +7,7 @@
 
 <h3 align="center">
 
-💼 Senior Software Engineer [@smarters](https://smarte.rs) 
+💼 Senior Software Engineer [@TRACTIAN](https://tractian.com) 
 
 </h3>
 
