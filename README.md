@@ -7,9 +7,16 @@
 
 <h3 align="center">
 
-💼 Senior Software Engineer [@TRACTIAN](https://tractian.com) 
+💼 Senior Software Engineer [@TRACTIAN](https://tractian.com)
+
 
 </h3>
+
+<h2 align="center">
+
+[Golang SP Meetup](https://www.meetup.com/golangbr)
+
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
