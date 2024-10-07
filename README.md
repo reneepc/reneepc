@@ -7,7 +7,7 @@
 
 <h3 align="center">
 
-💼 Senior Software Engineer [@TRACTIAN](https://tractian.com)
+💼 Software Engineer @ [Hotel Engine](https://engine.com)
 
 
 </h3>
