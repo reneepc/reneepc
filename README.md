@@ -7,7 +7,7 @@
 
 <h3 align="center">
 
-💼 Software Engineer @ [Hotel Engine](https://engine.com)
+💼 Software Engineer @ [Engine](https://engine.com)
 
 
 </h3>
